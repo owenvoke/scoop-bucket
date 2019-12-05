@@ -1,15 +1,15 @@
 {
     "homepage": "https://blackfire.io",
-    "version": "1.30.0",
+    "version": "1.30.1",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://packages.blackfire.io/binaries/blackfire-agent/1.30.0/blackfire-agent-windows_amd64.zip",
-            "hash": "084b6aa0d3eb4ea8f082c9c3fd41967754df1f667a68ea473a9eb72fbe19e7cf"
+            "url": "https://packages.blackfire.io/binaries/blackfire-agent/1.30.1/blackfire-agent-windows_amd64.zip",
+            "hash": "3b7bbfcf46a4921b908b7eccc20e3804d5cfac419ad121e888f6ac5d2f719297"
         },
         "32bit": {
-            "url": "https://packages.blackfire.io/binaries/blackfire-agent/1.30.0/blackfire-agent-windows_386.zip",
-            "hash": "8299a20bcaf51c0d52bcb8d12a974f244cd85233a899361f775e76d3123da323"
+            "url": "https://packages.blackfire.io/binaries/blackfire-agent/1.30.1/blackfire-agent-windows_386.zip",
+            "hash": "dc633f00a290830dbf9e08fd6452022f5bf0ca047c8bee4a3721cc9e65fbf5f1"
         }
     },
     "bin": [
@@ -18,7 +18,7 @@
     ],
     "checkver": {
         "url": "https://blackfire.io/docs/up-and-running/update",
-        "regex": "<th>Agent\/Client<\/th>\\s+<td class=\"version\">([0-9.]+)<\/td>"
+        "regex": "<th>Agent/Client</th>\\s+<td class=\"version\">([0-9.]+)</td>"
     },
     "autoupdate": {
         "architecture": {
