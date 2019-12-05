@@ -17,7 +17,7 @@
         "blackfire-agent.exe"
     ],
     "checkver": {
-        "url": "https://blackfire.io/docs/up-and-running/upgrade",
+        "url": "https://blackfire.io/docs/up-and-running/update",
         "regex": "<th>Agent\/Client<\/th>\\s+<td class=\"version\">([0-9.]+)<\/td>"
     },
     "autoupdate": {
