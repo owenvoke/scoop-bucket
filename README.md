@@ -7,7 +7,7 @@ A custom bucket for [Scoop][link-scoop].
 Via Scoop
 
 ```powershell
-scoop bucket add pxgamer https://github.com/pxgamer/scoop-bucket
+scoop bucket add "pxgamer" "https://github.com/pxgamer/scoop-bucket"
 ```
 
 ## Credits
