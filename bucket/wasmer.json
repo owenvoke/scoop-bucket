@@ -1,0 +1,22 @@
+{
+    "homepage": "https://github.com/wasmerio/wasmer",
+    "version": "0.11.0",
+    "license": "MIT",
+    "url": "https://github.com/wasmerio/wasmer/releases/download/0.11.0/wasmer-windows.exe",
+    "hash": "ac072a202468abc845746bf1c8bb749ba7d1e205aa7b10543ca6511932605d7d",
+    "innosetup": true,
+    "env_set": {
+        "WASMER_DIR": "$dir/data"
+    },
+    "persist": [
+        "data"
+    ],
+    "bin": [
+        "bin/wasmer.exe",
+        "bin/wapm.exe"
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/wasmerio/wasmer/releases/download/$version/wasmer-windows.exe"
+    }
+}
