@@ -1,15 +1,15 @@
 {
     "homepage": "https://blackfire.io",
-    "version": "1.30.2",
+    "version": "1.31.0",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://packages.blackfire.io/binaries/blackfire-agent/1.30.2/blackfire-agent-windows_amd64.zip",
-            "hash": "b31cd05a9397461568daec66380e1b2b9d86f13b5bdc71c2689e8fc7078522b7"
+            "url": "https://packages.blackfire.io/binaries/blackfire-agent/1.31.0/blackfire-agent-windows_amd64.zip",
+            "hash": "bd481bc0514aca0561664a8208f81735af39bf8cbf526948eef39f6709b3ecb1"
         },
         "32bit": {
-            "url": "https://packages.blackfire.io/binaries/blackfire-agent/1.30.2/blackfire-agent-windows_386.zip",
-            "hash": "9b1203b0a9c6f2e3427bdaf23624f23844bde76d5641b834ff5c5221585a7b68"
+            "url": "https://packages.blackfire.io/binaries/blackfire-agent/1.31.0/blackfire-agent-windows_386.zip",
+            "hash": "6b043309b97a0c742d0feb4018bb0042e1d1edfdd7cf2e0ab60fec659fb9938d"
         }
     },
     "bin": [
