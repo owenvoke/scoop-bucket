@@ -6,12 +6,13 @@
     "hash": "57967716896576f9fcbcdfc12512f9d45528f388ece665116b5af278c4babc26",
     "innosetup": true,
     "env_set": {
-        "WASMER_DIR": "$dir/data"
+        "WASMER_DIR": "$dir\\data",
+        "WASMER_CACHE_DIR": "$dir\\data\\cache"
     },
     "persist": "data",
     "bin": [
-        "bin/wasmer.exe",
-        "bin/wapm.exe"
+        "bin\\wasmer.exe",
+        "bin\\wapm.exe"
     ],
     "checkver": "github",
     "autoupdate": {
