@@ -9,7 +9,7 @@
         "script": "Expand-7zipArchive \"$dir\\app-64.7z\" \"$dir\""
     },
     "env_set": {
-        "LEDGER_CONFIG_DIRECTORY": "$dir/data"
+        "LEDGER_CONFIG_DIRECTORY": "$dir\\data"
     },
     "persist": "data",
     "shortcuts": [
