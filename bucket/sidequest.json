@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/the-expanse/SideQuest",
-    "version": "0.8.5",
+    "version": "0.8.6",
     "license": "MIT",
-    "url": "https://github.com/the-expanse/SideQuest/releases/download/v0.8.5/SideQuest-Setup-0.8.5-x64-win.exe#/dl.7z",
-    "hash": "b7fcd14f1a8db296364f58a77028c4d92d1476bcb1413ec219192f013d427a76",
+    "url": "https://github.com/the-expanse/SideQuest/releases/download/v0.8.6/SideQuest-Setup-0.8.6-x64-win.exe#/dl.7z",
+    "hash": "841b9dfedd3a354e281b86a4cca173d4751f7eddc48004ce6e5c1a4572686e66",
     "extract_dir": "$PLUGINSDIR",
     "installer": {
         "script": "Expand-7zipArchive \"$dir\\app-64.7z\" \"$dir\""
