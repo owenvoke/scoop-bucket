@@ -7,12 +7,12 @@ A custom bucket for [Scoop][link-scoop].
 Via Scoop
 
 ```powershell
-scoop bucket add "pxgamer" "https://github.com/pxgamer/scoop-bucket"
+scoop bucket add "owenvoke" "https://github.com/owenvoke/scoop-bucket"
 ```
 
 ## Credits
 
-- [pxgamer][link-author]
+- [Owen Voke][link-author]
 - [All Contributors][link-contributors]
 
 ## License
@@ -20,5 +20,5 @@ scoop bucket add "pxgamer" "https://github.com/pxgamer/scoop-bucket"
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
 [link-scoop]: https://scoop.sh
-[link-author]: https://github.com/pxgamer
+[link-author]: https://github.com/owenvoke
 [link-contributors]: ../../contributors
