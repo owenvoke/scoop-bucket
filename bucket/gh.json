@@ -1,0 +1,15 @@
+{
+    "##": "Added temporarily until 'gh' is officially added to Scoop (https://git.io/Jvs9z).",
+    "homepage": "https://github.com/cli/cli",
+    "version": "0.5.2",
+    "license": "MIT",
+    "url": "https://github.com/cli/cli/releases/download/v0.5.2/gh_0.5.2_windows_amd64.msi",
+    "hash": "fd311a4b964f6dca1ae014f602e8b33816569ecb341ffb9045e63c89b3d7ffcf",
+    "bin": [
+        "GitHub CLI\\gh.exe"
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_amd64.msi"
+    }
+}
