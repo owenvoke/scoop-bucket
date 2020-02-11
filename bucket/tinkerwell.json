@@ -20,5 +20,9 @@
     },
     "autoupdate": {
         "url": "https://tinkerwell.app/download/electron/Tinkerwell%20Setup%20$version.exe#/dl.7z"
-    }
+    },
+    "notes": [
+        "The built-in autoupdate process may cause duplicate installations.",
+        "See https://git.io/JvCua for more information."
+    ]
 }
