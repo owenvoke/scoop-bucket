@@ -13,9 +13,5 @@
             "masscode.exe",
             "massCode"
         ]
-    ],
-    "checkver": "github",
-    "autoupdate": {
-        "url": "https://github.com/antonreshetov/massCode/releases/download/v$version/massCode.Setup.$version.exe#/dl.7z"
-    }
+    ]
 }
