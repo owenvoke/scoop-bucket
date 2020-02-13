@@ -1,0 +1,14 @@
+{
+    "homepage": "https://gitea.com/gitea/tea",
+    "version": "0.1.2",
+    "license": "MIT",
+    "url": "https://gitea.com/attachments/69e095ca-f112-429c-b5fa-fc609ce11813#/tea.exe",
+    "hash": "03a255609f3911399866ca6abb95b6222b96b866b3f8d67c3510eba875c1aa2d",
+    "bin": [
+        "tea.exe"
+    ],
+    "checkver": {
+        "url": "https://gitea.com/gitea/tea/releases",
+        "regex": "<a href=\"\/gitea\/tea\/src\/tag\/v([0-9.]+)\" rel=\"nofollow\">"
+    }
+}
