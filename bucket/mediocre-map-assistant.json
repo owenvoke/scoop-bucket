@@ -1,0 +1,27 @@
+{
+    "homepage": "https://github.com/Assistant/MediocreMapAssistant2",
+    "version": "4.2.0.69",
+    "license": "MIT",
+    "url": "https://github.com/Assistant/MediocreMapAssistant2/releases/download/v4.2.0.69/MMA2.zip",
+    "hash": "f8463f0ebdf486a16a90b4535f3081b62d8bcf6fbe45cd4c97355dfc2e686826",
+    "shortcuts": [
+        [
+            "MediocreMapAssistant2.exe",
+            "Mediocre Map Assistant"
+        ]
+    ],
+    "post_install": [
+        "if (! (Test-Path \"$dir\\data\\CustomLevels\")) { mkdir $dir\\data\\CustomLevels > $null }",
+        "if (! (Test-Path \"$dir\\data\\CustomWIPLevels\")) { mkdir $dir\\data\\CustomWIPLevels > $null }"
+    ],
+    "persist": "data",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/Assistant/MediocreMapAssistant2/releases/download/v$version/MMA2.zip"
+    },
+    "notes": [
+        "Once installed, use the following paths for your level directories.",
+        "Custom Levels: $persist_dir\\data\\CustomLevels",
+        "Custom WIP Levels: $persist_dir\\data\\CustomWIPLevels"
+    ]
+}
