@@ -1,0 +1,17 @@
+{
+    "homepage": "https://github.com/wssyncmldm/frija",
+    "version": "1.4.2",
+    "license": "Proprietary",
+    "url": "https://github.com/wssyncmldm/frija/releases/download/v1.4.2/Frija-v1.4.2.zip",
+    "hash": "84f66faa3fdad1bd9b570dac25c3bfb9897e36b9fcac32da58811eae59c82688",
+    "shortcuts": [
+        [
+            "Frija.exe",
+            "Frija"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/wssyncmldm/frija/releases/download/v$version/Frija-v$version.zip"
+    }
+}
