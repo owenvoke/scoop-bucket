@@ -1,0 +1,20 @@
+{
+    "homepage": "https://tortoisehg.bitbucket.io",
+    "version": "5.0.2",
+    "license": "GPL-2.0-or-later",
+    "url": "https://bitbucket.org/tortoisehg/files/downloads/tortoisehg-5.0.2-x64.msi",
+    "hash": "12769892a1a5aecc058e45cf0299e9f4b5e5d9ad32061d35f720298f4621c821",
+    "shortcuts": [
+        [
+            "PFiles\\TortoiseHg\\thgw.exe",
+            "TortoiseHg Workbench"
+        ]
+    ],
+    "checkver": {
+        "url": "https://tortoisehg.bitbucket.io/download",
+        "regex": "<a href=\"https://bitbucket.org/tortoisehg/files/downloads/tortoisehg-[0-9.]+?-x64.msi\">([0-9.]+?)</a>"
+    },
+    "autoupdate": {
+        "url": "https://bitbucket.org/tortoisehg/files/downloads/tortoisehg-$version-x64.msi"
+    }
+}
