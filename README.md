@@ -12,6 +12,9 @@ Via Scoop
 
 ```powershell
 scoop bucket add "owenvoke" "https://github.com/owenvoke/scoop-bucket"
+
+# For a single Scoop package (replacing `package` with the required package)
+scoop install "https://raw.githubusercontent.com/owenvoke/scoop-bucket/master/bucket/{package}.json"
 ```
 
 ## Credits
