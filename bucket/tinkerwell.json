@@ -3,7 +3,7 @@
     "version": "2.3.1",
     "license": "Proprietary",
     "url": "https://tinkerwell.app/download/electron/Tinkerwell%20Setup%202.3.1.exe#/dl.7z",
-    "hash": "533de86694007ab74629cdc723483a2c8e59dbb38222d0d3b87bb40058e1af19",
+    "hash": "7300ae817df73e65131a03a0af6d5c3f62827b3443a8204ef6d3aee5889bec93",
     "extract_dir": "$PLUGINSDIR",
     "installer": {
         "script": "Expand-7zipArchive \"$dir\\app-64.7z\" \"$dir\""
