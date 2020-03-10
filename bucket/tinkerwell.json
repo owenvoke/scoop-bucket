@@ -1,9 +1,9 @@
 {
     "homepage": "https://tinkerwell.app",
-    "version": "2.4.0",
+    "version": "2.5.0",
     "license": "Proprietary",
-    "url": "https://tinkerwell.app/download/electron/Tinkerwell%20Setup%202.4.0.exe#/dl.7z",
-    "hash": "c2579951b9e30d1381557b6bbc56b8f72a4b9d7cdf448abb4ac24848c527a32e",
+    "url": "https://tinkerwell.app/download/electron/Tinkerwell%20Setup%202.5.0.exe#/dl.7z",
+    "hash": "c09d7335bcebe5e9036906d86da1ee9645509b63bf31b980399b04db16e2138a",
     "extract_dir": "$PLUGINSDIR",
     "installer": {
         "script": "Expand-7zipArchive \"$dir\\app-64.7z\" \"$dir\""
