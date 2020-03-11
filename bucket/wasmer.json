@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/wasmerio/wasmer",
-    "version": "0.15.0",
+    "version": "0.16.0",
     "license": "MIT",
-    "url": "https://github.com/wasmerio/wasmer/releases/download/0.15.0/wasmer-windows.exe",
-    "hash": "54f3f2e92cdf6d507a258e69254746dd55b3fcab7fdd0504e5674808f21f63fb",
+    "url": "https://github.com/wasmerio/wasmer/releases/download/0.16.0/wasmer-windows.exe",
+    "hash": "4faa1bf7c0111687c5bccc40fe7050f3afef0c7b5962fb528b05033b6f280111",
     "innosetup": true,
     "env_set": {
         "WASMER_DIR": "$dir\\data",
