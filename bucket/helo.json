@@ -1,9 +1,9 @@
 {
     "homepage": "https://usehelo.com",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "Proprietary",
-    "url": "https://helo.fra1.digitaloceanspaces.com/helo/HELO%20Setup%201.0.0.exe#/dl.7z",
-    "hash": "4fe3de85072d549722fbbbd9c42e2f301a894cef1462f4643bed4ad778c33417",
+    "url": "https://helo.fra1.digitaloceanspaces.com/helo/HELO%20Setup%201.0.1.exe#/dl.7z",
+    "hash": "6e3cf70c131ab19b5474ec49af2fce1886c723012f15249c1f9413c2490043e9",
     "extract_dir": "$PLUGINSDIR",
     "installer": {
         "script": "Expand-7zipArchive \"$dir\\app-64.7z\" \"$dir\""
@@ -21,7 +21,5 @@
     "autoupdate": {
         "url": "https://helo.fra1.digitaloceanspaces.com/helo/HELO%20Setup%20$version.exe#/dl.7z"
     },
-    "notes": [
-        "The built-in autoupdate process may cause duplicate installations."
-    ]
+    "notes": "The built-in autoupdate process may cause duplicate installations."
 }
