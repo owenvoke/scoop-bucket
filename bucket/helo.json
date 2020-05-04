@@ -1,9 +1,9 @@
 {
     "homepage": "https://usehelo.com",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "license": "Proprietary",
-    "url": "https://helo.fra1.digitaloceanspaces.com/helo/HELO%20Setup%201.1.0.exe#/dl.7z",
-    "hash": "9839a0290b4bf3d6e1f8072762417e354687f6024c8a82ad7f7d041bd1304236",
+    "url": "https://helo.fra1.digitaloceanspaces.com/helo/HELO%20Setup%201.1.1.exe#/dl.7z",
+    "hash": "6efdb0af4799330782dad3ac01fbcc1a77b66a92e5b058e43d43b512a79d6bb4",
     "extract_dir": "$PLUGINSDIR",
     "installer": {
         "script": "Expand-7zipArchive \"$dir\\app-64.7z\" \"$dir\""
