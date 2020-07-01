@@ -15,11 +15,11 @@
         ]
     ],
     "checkver": {
-        "url": "https://tinkerwell.app/download/electron/latest.yml",
+        "url": "https://tinkerwell.fra1.digitaloceanspaces.com/tinkerwell/latest.yml",
         "regex": "path: Tinkerwell Setup ([0-9.]+).exe"
     },
     "autoupdate": {
-        "url": "https://tinkerwell.app/download/electron/Tinkerwell%20Setup%20$version.exe#/dl.7z"
+        "url": "https://tinkerwell.fra1.digitaloceanspaces.com/tinkerwell/Tinkerwell%20Setup%20$version.exe#/dl.7z"
     },
     "notes": [
         "The built-in autoupdate process may cause duplicate installations.",
