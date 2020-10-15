@@ -1,9 +1,9 @@
 {
     "homepage": "https://www.duckychannel.com.tw/en/Support/Detail/21",
-    "version": "1.31",
+    "version": "1.32",
     "license": "MIT",
-    "url": "https://duckychannel.net/download/One2RGB-Software/Ducky_RGB_Software_v1.31.exe#/dl.7z",
-    "hash": "d95f641eac0598d423a60fd3fa25c3040854e345c9462adb8f2c63916f5b5eb9",
+    "url": "https://duckychannel.net/download/One2RGB-Software/Ducky_RGB_Software_v1.32.exe",
+    "hash": "96ec365d8612724fd8390fdc9f5782dc2819e54a262e8250c33b58ca4e68217e",
     "shortcuts": [
         [
             "bin\\Setup\\File\\DuckyRGBSeries.exe",
