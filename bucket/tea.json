@@ -10,6 +10,6 @@
         "regex": " href=\"/gitea/tea/src/tag/v([0-9.]+)\" rel=\"nofollow\">"
     },
     "autoupdate": {
-        "url": "https://dl.gitea.io/tea/$version/tea-$version-windows-4.0-amd64.exe#/tea.exe"
+        "url": "https://dl.gitea.io/tea/$version/tea-$version-windows-amd64.exe#/tea.exe"
     }
 }
