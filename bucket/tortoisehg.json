@@ -12,7 +12,7 @@
     ],
     "checkver": {
         "url": "https://tortoisehg.bitbucket.io/download",
-        "regex": "<a href=\"https://bitbucket.org/tortoisehg/files/downloads/tortoisehg-[0-9.]+?-x64.msi\">([0-9.]+?)</a>"
+        "regex": "<a href=\"https://www.mercurial-scm.org/release/tortoisehg/windows/tortoisehg-[0-9.]+?-x64.msi\">([0-9.]+?)</a>"
     },
     "autoupdate": {
         "url": "https://bitbucket.org/tortoisehg/files/downloads/tortoisehg-$version-x64.msi"

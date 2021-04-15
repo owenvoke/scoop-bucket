@@ -1,8 +1,8 @@
 {
-    "homepage": "https://github.com/the-expanse/SideQuest",
+    "homepage": "https://github.com/SideQuestVR/SideQuest",
     "version": "0.10.11",
     "license": "MIT",
-    "url": "https://github.com/the-expanse/SideQuest/releases/download/v0.10.11/SideQuest-Setup-0.10.11-x64-win.exe#/dl.7z",
+    "url": "https://github.com/SideQuestVR/SideQuest/releases/download/v0.10.11/SideQuest-Setup-0.10.11-x64-win.exe#/dl.7z",
     "hash": "ae20e8c48755e1db41c766a3196857046852ed4e040426c1b3fb70686fe6fa41",
     "extract_dir": "$PLUGINSDIR",
     "installer": {
@@ -16,6 +16,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/the-expanse/SideQuest/releases/download/v$version/SideQuest-Setup-$version-x64-win.exe#/dl.7z"
+        "url": "https://github.com/SideQuestVR/SideQuest/releases/download/v$version/SideQuest-Setup-$version-x64-win.exe#/dl.7z"
     }
 }

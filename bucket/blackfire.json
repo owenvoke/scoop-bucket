@@ -17,7 +17,7 @@
     ],
     "checkver": {
         "url": "https://blackfire.io/docs/up-and-running/update",
-        "regex": "<th>Unified Agent and Client v2</th>\\s+<td class=\"version\">([0-9.]+)</td>"
+        "regex": "<th><small>Unified Agent and Client <em>v2</em></small></th>\\s+<td class=\"version\">([0-9.]+)</td>"
     },
     "autoupdate": {
         "architecture": {
