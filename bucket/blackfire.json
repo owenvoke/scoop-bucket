@@ -1,20 +1,18 @@
 {
     "homepage": "https://blackfire.io",
-    "version": "2.1.0",
+    "version": "2.2.0",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://packages.blackfire.io/binaries/blackfire/2.1.0/blackfire-windows_amd64.zip",
-            "hash": "79426d7e8baca72b498ea063ba0a2348963a399b706f26cecbc1ad748e632645"
+            "url": "https://packages.blackfire.io/binaries/blackfire/2.2.0/blackfire-windows_amd64.zip",
+            "hash": "2be9bd17a690741537d597299463fd1ae064a0ec913d2915a1cc516f22a7a8b4"
         },
         "32bit": {
-            "url": "https://packages.blackfire.io/binaries/blackfire/2.1.0/blackfire-windows_386.zip",
-            "hash": "f9d98e0e8b690728b9e864dc220563f6b367ef086bf93902936057f5015422ea"
+            "url": "https://packages.blackfire.io/binaries/blackfire/2.2.0/blackfire-windows_386.zip",
+            "hash": "290974ce61970ce045f548964aba2057d5a157666e4c1fb7cf31c04ee01968b4"
         }
     },
-    "bin": [
-        "blackfire.exe"
-    ],
+    "bin": "blackfire.exe",
     "checkver": {
         "url": "https://blackfire.io/docs/up-and-running/update",
         "regex": "<th><small>Unified Agent and Client <em>v2</em></small></th>\\s+<td class=\"version\">([0-9.]+)</td>"
