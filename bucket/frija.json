@@ -1,8 +1,8 @@
 {
-    "homepage": "https://github.com/wssyncmldm/frija",
+    "homepage": "https://github.com/SlackingVeteran/frija",
     "version": "1.4.3",
     "license": "Proprietary",
-    "url": "https://github.com/wssyncmldm/frija/releases/download/v1.4.3/Frija-v1.4.3.zip",
+    "url": "https://github.com/SlackingVeteran/frija/releases/download/v1.4.3/Frija-v1.4.3.zip",
     "hash": "8469bfeb5ba832c898f7df8d85340d82a0074006420e9f3d2f841c04aa4cd45f",
     "shortcuts": [
         [
@@ -12,6 +12,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/wssyncmldm/frija/releases/download/v$version/Frija-v$version.zip"
+        "url": "https://github.com/SlackingVeteran/frija/releases/download/v$version/Frija-v$version.zip"
     }
 }
