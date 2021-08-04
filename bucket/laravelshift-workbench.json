@@ -2,7 +2,7 @@
     "homepage": "https://laravelshift.com/workbench",
     "version": "0.4.7",
     "license": "Proprietary",
-    "url": "https://shift-cloud.s3.amazonaws.com/workbench/Workbench%20Setup%200.4.7.exe",
+    "url": "https://shift-cloud.s3.amazonaws.com/workbench/Workbench%20Setup%200.4.7.exe#/dl.7z",
     "hash": "4b3e60a86f3a3319c565b74e2853132ca097d819f85948464851dbf72ca034b0",
     "extract_dir": "$PLUGINSDIR",
     "installer": {
@@ -19,6 +19,6 @@
         "regex": "path: Workbench Setup ([0-9.]+).exe"
     },
     "autoupdate": {
-        "url": "https://shift-cloud.s3.amazonaws.com/workbench/Workbench%20Setup%20$version.exe"
+        "url": "https://shift-cloud.s3.amazonaws.com/workbench/Workbench%20Setup%20$version.exe#/dl.7z"
     }
 }
