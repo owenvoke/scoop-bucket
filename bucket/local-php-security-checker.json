@@ -1,16 +1,16 @@
 {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "description": "The Local PHP Security Checker is a command line tool that checks if your PHP application depends on PHP packages with known security vulnerabilities.",
     "homepage": "https://github.com/fabpot/local-php-security-checker",
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/fabpot/local-php-security-checker/releases/download/v1.1.0/local-php-security-checker_1.1.0_windows_amd64.exe#/local-php-security-checker.exe",
-            "hash": "d4c07a4c7bd927edb0b90f791b2b28714de014cc1b5a66703c7db1bd5bf09098"
+            "url": "https://github.com/fabpot/local-php-security-checker/releases/download/v1.1.1/local-php-security-checker_1.1.1_windows_amd64.exe#/local-php-security-checker.exe",
+            "hash": "b2dda78354588c3fa2004ad07871e0b750ad0231d7e12f14c0d6a0ab0aab1f1b"
         },
         "32bit": {
-            "url": "https://github.com/fabpot/local-php-security-checker/releases/download/v1.1.0/local-php-security-checker_1.1.0_windows_386.exe#/local-php-security-checker.exe",
-            "hash": "deb57062f51fac51aee33ce2217b7b4e6288ad44dbbc812c979d17fae1bac84d"
+            "url": "https://github.com/fabpot/local-php-security-checker/releases/download/v1.1.1/local-php-security-checker_1.1.1_windows_386.exe#/local-php-security-checker.exe",
+            "hash": "f2208732005af8404bac36e12725d895e328252dd796146409fb19736d3a169f"
         }
     },
     "bin": "local-php-security-checker.exe",
