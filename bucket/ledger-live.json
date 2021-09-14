@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/LedgerHQ/ledger-live-desktop",
-    "version": "2.32.2",
+    "version": "2.33.1",
     "license": "MIT",
-    "url": "https://github.com/LedgerHQ/ledger-live-desktop/releases/download/v2.32.2/ledger-live-desktop-2.32.2-win.exe#/dl.7z",
-    "hash": "b1d0044568916c01aa8173ef2d329749a98c3a10a0c0048faa19472823497d4d",
+    "url": "https://github.com/LedgerHQ/ledger-live-desktop/releases/download/v2.33.1/ledger-live-desktop-2.33.1-win.exe#/dl.7z",
+    "hash": "c7395c632b8b83fb17f9b32e300eae14008e9bdfb7864038e5b74d2104f8eda2",
     "extract_dir": "$PLUGINSDIR",
     "installer": {
         "script": "Expand-7zipArchive \"$dir\\app-64.7z\" \"$dir\""
