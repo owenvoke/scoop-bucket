@@ -1,11 +1,11 @@
 {
     "homepage": "https://github.com/tj/git-extras",
-    "version": "6.2.0",
+    "version": "6.3.0",
     "license": "MIT",
-    "url": "https://github.com/tj/git-extras/archive/6.2.0.zip",
-    "hash": "f00272e777ce4f757c17d78b84165c7d13903c37765b3c61d9a12c6b00575605",
+    "url": "https://github.com/tj/git-extras/archive/6.3.0.zip",
+    "hash": "867e0bbb9f5f4fa6a1cd90ccfc5a17b82675931258e9fc00f51ab0f9624e2229",
     "depends": "git",
-    "extract_dir": "git-extras-6.2.0",
+    "extract_dir": "git-extras-6.3.0",
     "post_install": "& \"$dir\\install.cmd\" \"$(appdir git)\\current\\mingw64\"",
     "checkver": "github",
     "autoupdate": {
