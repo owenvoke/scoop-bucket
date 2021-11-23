@@ -1,9 +1,9 @@
 {
     "homepage": "https://laravelshift.com/workbench",
-    "version": "0.7.0",
+    "version": "0.7.1",
     "license": "Proprietary",
-    "url": "https://shift-cloud.s3.amazonaws.com/workbench/Workbench%20Setup%200.7.0.exe#/dl.7z",
-    "hash": "3e6e843ddb3046060c2af83369eae1a979eb33e07d85a2b5ded773a18657c623",
+    "url": "https://shift-cloud.s3.amazonaws.com/workbench/Workbench%20Setup%200.7.1.exe#/dl.7z",
+    "hash": "d170e3ddef84d20a74729ac7bf8cfcfe6dc01b54d1d437518448ef3d340dd463",
     "extract_dir": "$PLUGINSDIR",
     "installer": {
         "script": "Expand-7zipArchive \"$dir\\app-64.7z\" \"$dir\""
