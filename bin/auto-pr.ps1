@@ -1,6 +1,6 @@
 param(
     # overwrite upstream param
-    [String]$upstream = "owenvoke/scoop-bucket:master"
+    [String]$upstream = "owenvoke/scoop-bucket:main"
 )
 
 if(!$env:SCOOP_HOME) { $env:SCOOP_HOME = resolve-path (split-path (split-path (scoop which scoop))) }
