@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/solokeys/solo2-cli",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "license": "MIT",
-    "url": "https://github.com/solokeys/solo2-cli/releases/download/v0.1.0/solo2-v0.1.0-x86_64-pc-windows-msvc.exe#/solo2.exe",
-    "hash": "d41fd72a32224f7e1866bf98117b419c31ac3e82f593e3776ac2f0fb559dd955",
+    "url": "https://github.com/solokeys/solo2-cli/releases/download/v0.1.1/solo2-v0.1.1-x86_64-pc-windows-msvc.exe#/solo2.exe",
+    "hash": "533e6365bd7bed2172de70697d574a6267fde3d6af22c911a874ef02c5a7a36a",
     "bin": "solo2.exe",
     "checkver": "github",
     "autoupdate": {
