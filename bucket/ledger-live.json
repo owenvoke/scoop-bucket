@@ -20,6 +20,6 @@
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/LedgerHQ/ledger-live-desktop/releases/download/v$version/ledger-live-desktop-$version-win.exe#/dl.7z"
+        "url": "https://github.com/LedgerHQ/ledger-live-desktop/releases/download/v$version/ledger-live-desktop-$version-win-x64.exe#/dl.7z"
     }
 }
