@@ -1,0 +1,24 @@
+{
+    "homepage": "https://loom.com",
+    "version": "0.112.12",
+    "license": "Proprietary",
+    "url": "https://cdn.loom.com/desktop-packages/Loom%20Setup%200.112.12.exe#/dl.7z",
+    "hash": "295fa3241414c49b68dd75c297cd50cc056cfc9067f5fd5888ca5dab44693a73",
+    "extract_dir": "$PLUGINSDIR",
+    "installer": {
+        "script": "Expand-7zipArchive \"$dir\\app-64.7z\" \"$dir\""
+    },
+    "shortcuts": [
+        [
+            "Loom.exe",
+            "Loom"
+        ]
+    ],
+    "checkver": {
+        "url": "https://cdn.loom.com/desktop-packages/latest.yml",
+        "regex": "path: Loom Setup ([0-9.]+).exe"
+    },
+    "autoupdate": {
+        "url": "https://cdn.loom.com/desktop-packages/Loom%20Setup%20$version.exe#/dl.7z"
+    }
+}
