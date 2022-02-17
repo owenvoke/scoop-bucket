@@ -1,15 +1,15 @@
 {
     "homepage": "https://blackfire.io",
-    "version": "2.5.2",
+    "version": "2.6.0",
     "license": "Proprietary",
     "architecture": {
         "64bit": {
-            "url": "https://packages.blackfire.io/binaries/blackfire/2.5.2/blackfire-windows_amd64.zip",
-            "hash": "0f8a11491fbc957142684f252ddc37149d3ec7e0c4c9a46d9697ff4c6dba02a3"
+            "url": "https://packages.blackfire.io/binaries/blackfire/2.6.0/blackfire-windows_amd64.zip",
+            "hash": "f6600614609d02e5e91aa57d728234d066c806ed1c4b4172aee7c7fd73ef1ec3"
         },
         "32bit": {
-            "url": "https://packages.blackfire.io/binaries/blackfire/2.5.2/blackfire-windows_386.zip",
-            "hash": "3588fc5bb07eeae636117ef480ed19dbd700b35eb7365cdf87ed159802921eeb"
+            "url": "https://packages.blackfire.io/binaries/blackfire/2.6.0/blackfire-windows_386.zip",
+            "hash": "30ca00c38a0d1236cc76cd850a017d0e407e165e92a25b2e0d6ec7872f7c3052"
         }
     },
     "bin": "blackfire.exe",
