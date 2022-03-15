@@ -1,0 +1,21 @@
+{
+    "homepage": "https://github.com/ohdearapp/ohdear-cli",
+    "version": "2.7.0",
+    "license": "MIT",
+    "url": "https://github.com/ohdearapp/ohdear-cli/releases/download/v2.7.0/ohdear-cli.phar",
+    "hash": "33a193016fe74b3e17e6e137053f43a3060ab9e1407299b98c8f7cb5700a07c5",
+    "suggest": [
+        "php": ["php7.4", "php8.0"]
+    ],
+    "bin": [
+        [
+            "php.exe",
+            "ohdear-cli",
+            "$dir\\ohdear-cli.phar"
+        ]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/ohdearapp/ohdear-cli/releases/download/v$version/ohdear-cli.phar"
+    }
+}
