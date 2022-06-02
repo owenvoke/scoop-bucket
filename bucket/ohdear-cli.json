@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/ohdearapp/ohdear-cli",
-    "version": "3.1.0",
+    "version": "3.2.0",
     "license": "MIT",
-    "url": "https://github.com/ohdearapp/ohdear-cli/releases/download/v3.1.0/ohdear-cli.phar",
-    "hash": "26c0ef44c467de6cbf8d068fc9f1b55a5375a4cbfd91520ce594defb8fe8b7c6",
+    "url": "https://github.com/ohdearapp/ohdear-cli/releases/download/v3.2.0/ohdear-cli.phar",
+    "hash": "9bc29673e7bdb6749cbe798d01386351d7f8f93cf33b5721d6be6179817a3980",
     "suggest": {
         "PHP 8 or later": [
             "php",
