@@ -1,9 +1,9 @@
 {
     "homepage": "https://tinkerwell.app",
-    "version": "3.4.0",
+    "version": "3.5.0",
     "license": "Proprietary",
-    "url": "https://tinkerwell.fra1.digitaloceanspaces.com/tinkerwell/Tinkerwell%20Setup%203.4.0.exe#/dl.7z",
-    "hash": "f8dac32190340589f46f64f0208ffa02f15a165a93740c40086c955cf3ef1f82",
+    "url": "https://tinkerwell.fra1.digitaloceanspaces.com/tinkerwell/Tinkerwell%20Setup%203.5.0.exe#/dl.7z",
+    "hash": "23501aee1d59e840045af5d7bb7622dd9efe7706fb718886386d7d9b9edcf910",
     "extract_dir": "$PLUGINSDIR",
     "installer": {
         "script": "Expand-7zipArchive \"$dir\\app-64.7z\" \"$dir\""
