@@ -1,9 +1,9 @@
 {
     "homepage": "https://loom.com",
-    "version": "0.139.1",
+    "version": "0.139.2",
     "license": "Proprietary",
-    "url": "https://cdn.loom.com/desktop-packages/Loom%20Setup%200.139.1.exe#/dl.7z",
-    "hash": "5a5f3641d8d7f4a7ab791798e1838fa37df0dd6a3e3f8b468bd59b1e655603de",
+    "url": "https://cdn.loom.com/desktop-packages/Loom%20Setup%200.139.2.exe#/dl.7z",
+    "hash": "a91c76da85f80b32c8d503fccc4372d75771b3758033f58a9d0fcb19ea434c7f",
     "extract_dir": "$PLUGINSDIR",
     "installer": {
         "script": "Expand-7zipArchive \"$dir\\app-64.7z\" \"$dir\""
