@@ -1,15 +1,15 @@
 {
     "homepage": "https://github.com/zricethezav/gitleaks",
-    "version": "8.10.2",
+    "version": "8.10.3",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zricethezav/gitleaks/releases/download/v8.10.2/gitleaks_8.10.2_windows_x64.zip#/dl.7z",
-            "hash": "225f5d0bf455af9708bc16b3d854d7d94d0959041f306029748a544a3379d4ad"
+            "url": "https://github.com/zricethezav/gitleaks/releases/download/v8.10.3/gitleaks_8.10.3_windows_x64.zip#/dl.7z",
+            "hash": "6a684c26ccedfea8ad17e963644bd2c39ab56241519ce8e4b63db2e5e9b19637"
         },
         "32bit": {
-            "url": "https://github.com/zricethezav/gitleaks/releases/download/v8.10.2/gitleaks_8.10.2_windows_x32.zip#/dl.7z",
-            "hash": "6afade31660b247feae78ea535a3673faab20878ae9a35b8200ce06db59670ec"
+            "url": "https://github.com/zricethezav/gitleaks/releases/download/v8.10.3/gitleaks_8.10.3_windows_x32.zip#/dl.7z",
+            "hash": "ec56423bf37af9e2a77f45a403b5aa41065de3784d31984f31d953380da6635e"
         }
     },
     "bin": "gitleaks.exe",
