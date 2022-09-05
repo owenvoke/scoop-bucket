@@ -1,9 +1,9 @@
 {
     "homepage": "https://dbschema.com",
-    "version": "9.0.3",
+    "version": "9.0.4",
     "license": "Proprietary",
-    "url": "https://dbschema.com/download/DbSchema_9_0_3.zip",
-    "hash": "3228bc1b4912a00d2a458bef8f319add71a35084f5e26f9f47639c2a25e2e036",
+    "url": "https://dbschema.com/download/DbSchema_9_0_4.zip",
+    "hash": "69136973739ecffcbfd3e713626b20216e961f926f7edc7188692a1d9ddf35cd",
     "extract_dir": "DbSchema",
     "shortcuts": [
         [
