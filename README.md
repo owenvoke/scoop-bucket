@@ -27,7 +27,7 @@ scoop install "https://raw.githubusercontent.com/owenvoke/scoop-bucket/main/buck
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-github-actions]: https://img.shields.io/github/workflow/status/owenvoke/scoop-bucket/Auto%20Update.svg?style=flat-square
+[ico-github-actions]: https://img.shields.io/github/actions/workflow/status/owenvoke/scoop-bucket/auto-update.yml?branch=main&style=flat-square
 [ico-github-repo-size]: https://img.shields.io/github/repo-size/owenvoke/scoop-bucket?style=flat-square
 
 [link-github-actions]: https://github.com/owenvoke/scoop-bucket/actions
