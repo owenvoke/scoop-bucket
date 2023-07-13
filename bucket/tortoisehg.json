@@ -1,9 +1,9 @@
 {
     "homepage": "https://tortoisehg.bitbucket.io",
-    "version": "6.4.2",
+    "version": "6.4.5",
     "license": "GPL-2.0-or-later",
-    "url": "https://www.mercurial-scm.org/release/tortoisehg/windows/tortoisehg-6.4.2-x64.msi",
-    "hash": "549d2b6a5ecc5d8cebd4e948ba0e7a932f3db43c2f81618eef4586523b514806",
+    "url": "https://www.mercurial-scm.org/release/tortoisehg/windows/tortoisehg-6.4.5-x64.msi",
+    "hash": "6a975588f456a478e76344eb7d7baaeebcbc4a87d7fdc72bbcd08365a72a59d6",
     "shortcuts": [
         [
             "PFiles\\TortoiseHg\\thgw.exe",
