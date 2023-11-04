@@ -1,9 +1,9 @@
 {
     "homepage": "https://invoker.dev",
-    "version": "2.0.0",
+    "version": "2.13.2",
     "license": "Proprietary",
-    "url": "https://invoker.ams3.digitaloceanspaces.com/invoker/Invoker%20Setup%202.0.0.exe#/dl.7z",
-    "hash": "e279b01f8efc71796ee6b4f1358de825d86b7083f06a39f71cc9431893cedd04",
+    "url": "https://invokerdev.fra1.digitaloceanspaces.com/invoker/Invoker%20Setup%202.13.2.exe#/dl.7z",
+    "hash": "808b24870ba422b5ceb092aae5d8cbe816078e0663b582dac0e33bfd14eac685",
     "extract_dir": "$PLUGINSDIR",
     "installer": {
         "script": "Expand-7zipArchive \"$dir\\app-64.7z\" \"$dir\""
