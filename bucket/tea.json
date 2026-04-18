@@ -1,9 +1,9 @@
 {
     "homepage": "https://gitea.com/gitea/tea",
-    "version": "0.13.0",
+    "version": "0.14.0",
     "license": "MIT",
-    "url": "https://dl.gitea.io/tea/0.13.0/tea-0.13.0-windows-amd64.exe#/tea.exe",
-    "hash": "6665e32bd546baf3b68d7dca94be0abfe052d428b1e22c56c7d06d7c9accf805",
+    "url": "https://dl.gitea.io/tea/0.14.0/tea-0.14.0-windows-amd64.exe#/tea.exe",
+    "hash": "5f5315a8e0e520e92c0fd8f27c027c26717f68c3f4ee5d33c08a75cfa26f1e0e",
     "bin": "tea.exe",
     "checkver": {
         "url": "https://gitea.com/gitea/tea/releases",
