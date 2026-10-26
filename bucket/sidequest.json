@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/SideQuestVR/SideQuest",
-    "version": "1.4.1",
+    "version": "1.4.2",
     "license": "MIT",
-    "url": "https://github.com/SideQuestVR/SideQuest/releases/download/v1.4.1/SideQuest-Setup-1.4.1-x64-win.exe#/dl.7z",
-    "hash": "ee40706f8bc2658271965ec46d7531b97845ab1b6dd1d53116fbd024969bd9f3",
+    "url": "https://github.com/SideQuestVR/SideQuest/releases/download/v1.4.2/SideQuest-Setup-1.4.2-x64-win.exe#/dl.7z",
+    "hash": "a99892ffef2228b52076d114a66a6fb52eb50435be95ebab0b102802904084d3",
     "extract_dir": "$PLUGINSDIR",
     "installer": {
         "script": "Expand-7zipArchive \"$dir\\app-64.7z\" \"$dir\""
